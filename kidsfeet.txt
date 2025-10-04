@@ -32,7 +32,7 @@ ID	Age	Height	Width	Sex	DomHand	DomFoot
 6	88.0	22.0	9.3	G	L	R
 7	88.0	20.5	8.6	G	R	R
 3	88.0	22.5	8.6	G	L	R
-4	89.0	29.9	11.0	B	R	L
+4	89.0	50.9	31.0	B	R	L
 4	88.0	22.7	8.6	B	R	L
 3	88.0	20.9	4.5	G	L	R
 3	89.3	17.4	6.97	G	L	R
